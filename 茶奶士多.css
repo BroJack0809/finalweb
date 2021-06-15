@@ -1,0 +1,11 @@
+thead{
+    text-align: center;
+    background-color: #FFBD9D;
+}
+td{
+    text-align: center;
+    background-color:#FFDAC8;
+}
+body{
+    background:linear-gradient(to right,#FFDCB9,#FFE4CA,#FFDCB9);
+}
