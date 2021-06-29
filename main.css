@@ -1,3 +1,7 @@
 html{
     background-image: blue;
 }
+#spic > div
+{
+    float:left;
+}

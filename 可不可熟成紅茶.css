@@ -9,3 +9,6 @@ thead{
 body{
     background:linear-gradient(to right,#4A4AFF,#6A6AFF,#7D7DFF	);
 }
+table{
+    max-width: 100%;
+}
